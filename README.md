@@ -20,13 +20,13 @@ Use this when wanting to convey direction whilst also making stakeholders aware 
 * [Create/save an access token for ADO](https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops&tabs=Windows)
 * Then you're good to get started!
 
-### Connectivity (Azure DevOps Version)
+### Connectivity
 * Open the .pbit file in Power BI Desktop
 * Select http/https (only choose http if your Azure DevOps Server is HTTP)
 * Add the Analytics / Azure DevOps Server URL - for Azure DevOps services enter 'analytics.dev.azure.com' / for Azure DevOps Server enter your server details
 * Add your organization, project name and team name
 
-Don't confuse the team name with the project name, a common mistake. If the URL you use is "http://dev.azure.com/Microsoft-UK/AzureDevOpsTeam/Database", then Microsoft-UK is the Organization Name, AzureDevOpsTeam is the Project name, Database is the team name.
+Don't confuse the team name with the project name, a common mistake. If the URL you use is "http://dev.azure.com/Microsoft-UK/AzureDevOpsTeam/Database", then Microsoft-UK is the Organization Name, AzureDevOpsTeam is the Project name, Database is the team name. Make sure this team name matches EXACTLY with the team name in the ADO URL.
 
 * It should then look something like this:
 
