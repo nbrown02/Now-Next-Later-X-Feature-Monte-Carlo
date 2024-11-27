@@ -16,10 +16,8 @@ Use this when wanting to convey direction whilst also making stakeholders aware 
   - Your Epics are articulated as outcomes and are tagged 'Now' / 'Next' / 'Later' depending on where they are in the roadmap
   - At all levels you always try to break work down to thin, vertical slices
   - For more info, please read the [accompanying blog](https://medium.com/@nbrown02/outcome-focused-roadmaps-and-feature-monte-carlo-unite-833a3bb4366b) first
-* Download the template file:
-  - [Azure DevOps / Azure DevOps Server / TFS version](https://github.com/nbrown02/Capacity-Planning-Feature-Monte-Carlo/raw/main/Capacity%20Planning%20&%20Feature%20Monte%20Carlo%20(ADO).pbit)
-* Create/save an access token 
-  - [Personal Access Token (PAT) if using Azure DevOps (make sure you have 'Read' Analytics access)](https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops&tabs=Windows)
+* [Download the template file](https://github.com/nbrown02/Now-Next-Later-X-Feature-Monte-Carlo/raw/refs/heads/main/Now%20Next%20Later%20X%20Feature%20Monte%20Carlo.pbit)
+* [Create/save an access token for ADO](https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops&tabs=Windows)
 * Then you're good to get started!
 
 ### Connectivity (Azure DevOps Version)
