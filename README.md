@@ -30,7 +30,7 @@ Don't confuse the team name with the project name, a common mistake. If the URL 
 
 * It should then look something like this:
 
-![image](https://github.com/user-attachments/assets/f4d2f161-8c7e-45df-b809-2279e93852e3)
+![image](https://github.com/user-attachments/assets/64bcee08-fb0c-401c-b552-12ef9dcff019)
 
 * Hit 'Load' 
 * You will be prompted for a login, choose Basic and enter:
