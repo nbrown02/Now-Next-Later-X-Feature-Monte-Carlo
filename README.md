@@ -46,37 +46,31 @@ Don't confuse the team name with the project name, a common mistake. If the URL 
 ## Using the report
 There are a few different ways you can use each chart.
 
-### Now Next Later
+### Now Next Later Roadmap
 
-![image-20230922-111614](https://github.com/nbrown02/5-Minute-Capacity-Planning/assets/29369962/9031b0aa-3d5f-46a2-ac14-a52c486b608c)
+![image](https://github.com/user-attachments/assets/acdf931c-039b-4822-8ec0-27bbddb4a3f7)
 
-We can use this visual to see, of our Epics, which is aligned with the different section in our roadmap. Each Epic is clickable to open in ADO
-
-GIF
+We can use this visual to see, of our Epics, which is aligned with the different section in our roadmap. Each Epic is clickable to open in ADO.
 
 ### Feature Monte Carlo
 There are two main ways to use this report:
 
 Better understand/manage expectations on delivery - by using this report you are able to define a target date and percentage likelihood outcome to aim for. You can play around with the drop down options for these two fields to see the different outcomes that could occur and how likely (or unlikely!) an outcome for a particular Feature is.
 
-![1_Qy8ivTXv3DuBaZ1FOKY13w](https://github.com/nbrown02/5-Minute-Capacity-Planning/assets/29369962/fc51122d-1c68-4a15-a58a-67ba29491f52)
+![FMC1](https://github.com/user-attachments/assets/797dc54e-f190-4151-ba86-72d34a879535)
 
-Understand the impact WIP has on delivery - the problem with forecasting at Feature level is that it typically assumes one feature is worked on sequentially in priority order by a team, which is simply not the reality we face. It is underestimated just how much of an impact Feature WIP has on teams. Even if a team is limiting WIP at story level, this is redundant for Feature throughput if WIP is not limited at the level above that. We can see the impact of this with a very quick example:
+Understand the impact WIP has on delivery - the problem with forecasting at Feature level is that it typically assumes one feature is worked on sequentially in priority order by a team, which is simply not the reality we face. It is underestimated just how much of an impact Feature WIP has on teams. Even if a team is limiting WIP at story level, this is redundant for Feature throughput if WIP is not limited at the level above that. This report also shows the number of Features without Child items (at PBI/Story level) and the number of unparented Features. 
 
-![1_P6Gk1x_ijr3t_Ca-hzhV3g](https://github.com/nbrown02/5-Minute-Capacity-Planning/assets/29369962/ae7ba0cc-c159-44b4-bad0-7d2a8e56f360)
-
-This report also shows the number of Features without Child items (at PBI/Story level) and the number of unparented Features. 
-
-IMAGE
+![image](https://github.com/user-attachments/assets/a3ab257c-c5da-43dd-ba6a-405584d4de88)
 
 Please note, the Feature priority order is determined from the priority order in the Feature backlog in ADO (any Features without children are skipped - can't simulate against 0 child items!).
 
 ### Now Next Later WITH Feature Monte Carlo
 
-![image-20230922-111614](https://github.com/nbrown02/5-Minute-Capacity-Planning/assets/29369962/9031b0aa-3d5f-46a2-ac14-a52c486b608c)
+![FMC2](https://github.com/user-attachments/assets/31e85b20-bd0d-4291-a511-25b510881f0b)
 
-For any Epics in the 'Now', a user can click on a row and the Feature Monte Carlo will dynamically update to show the Features that make up that Epic.
+For any Epics in the 'Now', a user can click on a row and the Feature Monte Carlo will dynamically update to show the Features that make up that Epic:
 
-GIF
+![FMC3](https://github.com/user-attachments/assets/5d715c4f-e496-4b6a-bed8-68906652dc81)
 
 A user can then of course adjust the parameters if need be to see what would need to happen for those Features to become possible by the given date.
