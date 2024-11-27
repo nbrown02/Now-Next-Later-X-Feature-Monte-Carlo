@@ -30,7 +30,7 @@ Don't confuse the team name with the project name, a common mistake. If the URL 
 
 * It should then look something like this:
 
-![image](https://github.com/nbrown02/Capacity-Planning-Feature-Monte-Carlo/assets/29369962/16424b1e-e43e-44c9-b460-3f69c75e083e)
+![image](https://github.com/user-attachments/assets/f4d2f161-8c7e-45df-b809-2279e93852e3)
 
 * Hit 'Load' 
 * You will be prompted for a login, choose Basic and enter:
