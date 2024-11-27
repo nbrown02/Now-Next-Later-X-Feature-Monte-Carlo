@@ -11,11 +11,11 @@ Use this when wanting to convey direction whilst also making stakeholders aware 
 
 ### Prerequisites
 * To get the best out of this template:
+  - Please read the [accompanying blog](https://medium.com/@nbrown02/outcome-focused-roadmaps-and-feature-monte-carlo-unite-833a3bb4366b) first
   - All work (Epics/Features/Stories) sits in the same ADO project and are 'owned' by a single team (i.e. not shared across multiple teams)
   - Your team regularly review and move work items (User Stories, PBIs, Features, Epics, etc.) to in progress (when started) and done (once complete)
   - Your Epics are articulated as outcomes and are tagged 'Now' / 'Next' / 'Later' depending on where they are in the roadmap
-  - At all levels you always try to break work down to thin, vertical slices
-  - For more info, please read the [accompanying blog](https://medium.com/@nbrown02/outcome-focused-roadmaps-and-feature-monte-carlo-unite-833a3bb4366b) first
+  - At all levels you always try to break work down to thin, vertical slices 
 * [Download the template file](https://github.com/nbrown02/Now-Next-Later-X-Feature-Monte-Carlo/raw/refs/heads/main/Now%20Next%20Later%20X%20Feature%20Monte%20Carlo.pbit)
 * [Create/save an access token for ADO](https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops&tabs=Windows)
 * Then you're good to get started!
