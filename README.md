@@ -72,3 +72,10 @@ For any Epics in the 'Now', a user can click on a row and the Feature Monte Carl
 ![FMC3](https://github.com/user-attachments/assets/5d715c4f-e496-4b6a-bed8-68906652dc81)
 
 A user can then of course adjust the parameters if need be to see what would need to happen for those Features to become possible by the given date.
+
+### Forecasting data
+
+This report uses the most recent 12 weeks of 'finished' weeks Throughput data. For example if looking at the data on a Wednesday, it won't incorporate Throughput data for the current week until the week completes. However on the ? for the Feature Monte Carlo shows a Process Behaviour Chart (PBC) detailing how predictable the data is from a forecasting perspective:
+
+![image](https://github.com/user-attachments/assets/5740f8ae-54c1-4621-9efa-eb8ee6c26647)
+
